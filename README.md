@@ -11,7 +11,7 @@
 <p align="center"><a href="https://github.com/haraprasadhota"><img title="KING-HACKER" src="https://github-readme-stats.vercel.app/api?username=haraprasadhota&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/haraprasadhota/KING-HACKER/blob/master/hacker-4438137_1280.png" alt="Bt">
+<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/haraprasadhota/haraprasadhota/blob/master/20200915_191818.gif" alt="Bt">
 </p>
 
 <p align="center">

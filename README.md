@@ -11,6 +11,9 @@
 <p align="center"><a href="https://github.com/haraprasadhota"><img title="KING-HACKER" src="https://github-readme-stats.vercel.app/api?username=haraprasadhota&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
+<p align="center"><a href="https://github.com/haraprasadhota"><img title="KING-HACKER" src="https://github-readme-stats.vercel.app/api?username=haraprasadhota&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
 <p align="center">
 <a href="https://github.com/haraprasadhota"><img title="YouTube" src="https://img.shields.io/badge/Github-haraprasadhota-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://gitlab.com/haraprasadhota"><img title="YouTube" src="https://img.shields.io/badge/YouTube-haraprasadhota-red?style=for-the-badge&logo=Youtube"></a>

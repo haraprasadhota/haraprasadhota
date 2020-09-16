@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/haraprasadhota/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-<a href="https://github.com/haraprasadhota/Phoneinfoga"><img title="Phoneinfoga" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=Phoneinfoga&theme=radical"></a>
+<a href="https://github.com/haraprasadhota/cupp"><img title="cupp" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=cupp&theme=radical"></a>
 <a href="https://github.com/haraprasadhota/termux-khusi"><img title="termux-khusi" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=termux-khusi&theme=highcontrast"></a>
 <a href="https://github.com/haraprasadhota/HP-REMIX"><img title="HP-REMIX" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=HP-REMIX&theme=vision-friendly-dark"></a>
 <a href="https://github.com/haraprasadhota/HPBOMB"><img title="HPBOMB" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=HPBOMB&theme=highcontrast"></a>

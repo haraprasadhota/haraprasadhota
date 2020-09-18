@@ -32,5 +32,5 @@
 
 <p align="center">
 <a href="https://github.com/haraprasadhota"><img title="KING-HACKER
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haraprasadhota&theme=highcontrast"></a>
+" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haraprasadhota&theme=highcontrast&layout=compact"></a>
 </p>

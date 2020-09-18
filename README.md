@@ -25,9 +25,9 @@
 
 <p align="center">
 <a href="https://github.com/haraprasadhota/CRASH"><img title="CRASH" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=CRASH&theme=radical"></a>
-<a href="https://github.com/haraprasadhota/termux-khusi"><img title="termux-khusi" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=termux-khusi&theme=highcontrast"></a>
+<a href="https://github.com/haraprasadhota/termux-khusi"><img title="termux-khusi" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=termux-khusi"></a>
 <a href="https://github.com/haraprasadhota/HP-REMIX"><img title="HP-REMIX" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=HP-REMIX&theme=vision-friendly-dark"></a>
-<a href="https://github.com/haraprasadhota/HPBOMB"><img title="HPBOMB" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=HPBOMB&theme=highcontrast"></a>
+<a href="https://github.com/haraprasadhota/HPBOMB"><img title="HPBOMB" src="https://github-readme-stats.vercel.app/api/pin/?username=haraprasadhota&repo=HPBOMB"></a>
 </p>
 
 <p align="center">
